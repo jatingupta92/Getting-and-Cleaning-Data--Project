@@ -36,7 +36,8 @@ tBodyGyroJerkMean
 The set of variables that were estimated using the signals and included
 in the tidy data are:
 
-**mean(): Mean value** **std(): Standard deviation**
+**mean(): Mean value** 
+**std(): Standard deviation**
 
 All the labels of tidy data have been shown below along with their
 combined mean value for 30 people and 6 Activities.
